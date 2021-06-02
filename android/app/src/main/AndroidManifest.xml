@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sample_flutter_app">
+    package="com.ghpark.sample_flutter_app">
    <application
         android:label="sample_flutter_app"
         android:icon="@mipmap/ic_launcher">
